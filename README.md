@@ -290,6 +290,7 @@ operational cash demand forecasting in a multi-branch banking environment.
 **Gbemileke Falade**
 
 Senior Data Analyst | AI/ML Practitioner | Data Consultant
+
 Lagos, Nigeria
 
 https://www.linkedin.com/in/gbemileke-falade
