@@ -235,6 +235,7 @@ sustained rate trends over weeks, not daily movements.
 
 ## Repository Structure
 
+```
 fx-cash-demand-forecasting/
 │
 ├── README.md
@@ -249,7 +250,7 @@ fx-cash-demand-forecasting/
 ├── README.md
 └── fx_cash_demand_forecasting.ipynb
 
-
+```
 ---
 
 ## Getting Started
